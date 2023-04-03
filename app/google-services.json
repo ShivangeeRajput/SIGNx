@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848426672252",
+    "project_id": "signify-5d44b",
+    "storage_bucket": "signify-5d44b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848426672252:android:c80ba0df61638e967e29f9",
+        "android_client_info": {
+          "package_name": "com.example.signify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848426672252-ubsqt8v80sigg4495sobk016pcrm5grr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrY6on-cXg38zvCug9KPX1D5RsSYIlB_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848426672252-ubsqt8v80sigg4495sobk016pcrm5grr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-feature android:name="android.hardware.camera.any" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SIGNify"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity
+            android:name=".CameraActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ISL_Fash_PDF"
+            android:exported="false" />
+        <activity
+            android:name=".flash_PDF"
+            android:exported="false" />
+        <activity
+            android:name=".ASL_Flash"
+            android:exported="false" />
+        <activity
+            android:name=".ISLPDF"
+            android:exported="false" />
+        <activity
+            android:name=".ASLPDF"
+            android:exported="false" />
+        <activity
+            android:name=".ISL_flash"
+            android:exported="false" />
+        <activity
+            android:name=".ISL"
+            android:exported="false" />
+        <activity
+            android:name=".ASL"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.Slash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activities.SignIn"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.Login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"></activity>
+    </application>
+
+</manifest>
