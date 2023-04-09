@@ -20,12 +20,19 @@ Here's a walkthrough of implemented user stories:
 
 ## Screenshots
 <p>
-<img src="https://user-images.githubusercontent.com/100294737/219311158-8979ffe2-e11a-4040-8c58-aed8374465c5.jpg" height="500">
-<img src="https://user-images.githubusercontent.com/100294737/219311625-1f89bd4b-7d50-463b-872c-3a39ec0fc5ad.jpg" height="500">
-<img src="https://user-images.githubusercontent.com/100294737/219311858-f8a4f261-957b-481e-adfd-ab090c04a57e.jpg" height="500" >
-<img src="https://user-images.githubusercontent.com/100294737/219312066-6c8016cf-8c2b-48b7-a890-c7ef89196a0f.jpg" height="500" >
-<img src="https://user-images.githubusercontent.com/100294737/219312699-0d9abd43-2dd5-4ad0-8b35-0a66f48ea9e2.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/100294737/230756582-73e23b26-7266-4efb-a2c7-c07684645d36.jpg" height="500" >
+<img src="https://user-images.githubusercontent.com/100294737/230756583-1e74b65f-e234-4d90-b9b3-209269863f77.jpg" height="500" >
+<img src="https://user-images.githubusercontent.com/100294737/230756579-af7d8ef2-e032-4ccb-9fc0-66c9719af21a.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/100294737/230756581-1ff397be-211b-402d-bddc-1c5ee1e943e1.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/100294737/230756584-fa348018-f1ca-4d16-8ed4-0e47345049f1.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/100294737/230756585-99011537-e9cf-4163-a06b-37257f1885a9.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/100294737/230756586-d4053557-c7e5-49b1-814c-475b46438a2e.jpg " height="500">
+<img src=" https://user-images.githubusercontent.com/100294737/230756587-64358776-ba3b-4700-93bd-3dae1949b6a0.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/100294737/230756588-fc425471-8e0f-44ed-bf15-79f86405f87b.jpg " height="500">
 <p>
+
+
+
     
 ## Libraries used:
 *   [Firebase Authentication](https://firebase.google.com/docs/auth/)
