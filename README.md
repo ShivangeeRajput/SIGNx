@@ -17,6 +17,7 @@ Here's a walkthrough of implemented user stories:
 <p>
 <img src="https://user-images.githubusercontent.com/100294737/230756998-eb1f7c2a-5f5f-4ae9-9f95-522994b24466.gif" height="500">
 <img src="https://user-images.githubusercontent.com/100294737/230757595-16e26e76-8df7-45d3-894f-35d17e5025a8.gif" height="500">
+<img src="https://user-images.githubusercontent.com/100294737/230757793-603db203-087d-4856-8762-fe2d7565218d.gif"  height="500">
 </p>
 ## Screenshots
 <p>
