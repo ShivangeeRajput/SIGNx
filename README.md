@@ -14,10 +14,10 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-
+<p>
 <img src="https://user-images.githubusercontent.com/100294737/230756998-eb1f7c2a-5f5f-4ae9-9f95-522994b24466.gif" height="500">
-
+<img src="https://user-images.githubusercontent.com/100294737/230757595-16e26e76-8df7-45d3-894f-35d17e5025a8.gif" height="500">
+</p>
 ## Screenshots
 <p>
 <img src="https://user-images.githubusercontent.com/100294737/230756582-73e23b26-7266-4efb-a2c7-c07684645d36.jpg" height="500" >
