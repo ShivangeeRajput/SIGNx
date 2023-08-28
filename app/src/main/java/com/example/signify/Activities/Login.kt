@@ -29,7 +29,7 @@ class Login : AppCompatActivity() {
 
         // changing the color of toolbar manually
         supportActionBar?.hide()
-
+//firebase authentication
         mAuth= FirebaseAuth.getInstance()
 
 
