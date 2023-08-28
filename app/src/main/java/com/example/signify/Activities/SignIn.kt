@@ -30,6 +30,7 @@ class SignIn : AppCompatActivity() {
 
 
         supportActionBar?.hide()
+        //firebase authentication
         mAuth= FirebaseAuth.getInstance()
 
 
