@@ -12,7 +12,7 @@ class Slash : AppCompatActivity() {
         setContentView(R.layout.activity_slash)
 
         supportActionBar?.hide()
-
+// providing time limit for splash activity
      Handler().postDelayed({
          val intent = Intent(
              this@Slash, Login::class.java)
