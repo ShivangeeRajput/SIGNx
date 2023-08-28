@@ -59,7 +59,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 public class CameraActivity extends AppCompatActivity {
-
+//java code
     private static final int REQUEST_CAMERA_PERMISSION = 1;
     private static final int IMAGE_MEAN = 0;
     private static final float IMAGE_STD = 1.0f;
