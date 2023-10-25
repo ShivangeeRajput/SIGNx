@@ -23,8 +23,9 @@ Here's a walkthrough of implemented user stories:
 <p>
 <img src="https://user-images.githubusercontent.com/100294737/230756582-73e23b26-7266-4efb-a2c7-c07684645d36.jpg" height="500" >
 <img src="https://user-images.githubusercontent.com/100294737/230756583-1e74b65f-e234-4d90-b9b3-209269863f77.jpg" height="500" >
+<img src="https://github.com/ShivangeeRajput/SIGNx/assets/100294737/e493a3a4-9d54-4b51-a523-5a8a138f133d.jpg" height="500"> 
 <img src="https://user-images.githubusercontent.com/100294737/230756579-af7d8ef2-e032-4ccb-9fc0-66c9719af21a.jpg" height="500">
-<img src="https://user-images.githubusercontent.com/100294737/230756581-1ff397be-211b-402d-bddc-1c5ee1e943e1.jpg" height="500">
+<img src=" https://github.com/ShivangeeRajput/SIGNx/assets/100294737/8a3a3068-2ba5-4c9c-96d9-8a467486de86.jpg" height="500">
 <img src="https://user-images.githubusercontent.com/100294737/230756584-fa348018-f1ca-4d16-8ed4-0e47345049f1.jpg" height="500">
 <img src="https://user-images.githubusercontent.com/100294737/230756585-99011537-e9cf-4163-a06b-37257f1885a9.jpg" height="500">
 <img src="https://user-images.githubusercontent.com/100294737/230756586-d4053557-c7e5-49b1-814c-475b46438a2e.jpg " height="500">
