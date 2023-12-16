@@ -38,7 +38,11 @@ Here's a walkthrough of implemented user stories:
     
 ## Libraries used:
 *   [Firebase Authentication](https://firebase.google.com/docs/auth/)
-*   [Firebase Realtime Database](https://firebase.google.com/docs/database/)  
+*   [Firebase Realtime Database](https://firebase.google.com/docs/database/)
+*   [Tensorflow](https://www.tensorflow.org/lite)
+*   [Tf Lite ](https://www.tensorflow.org/lite/)
+*   [Keras](https://keras.io/)
+  
 
 ## Notes
 
